@@ -1,0 +1,15 @@
+[submodule "app/notification"]
+	path = app/notification
+	url = https://github.com/submodule-test/notification-submodule
+[submodule "app/auth"]
+	path = app/auth
+	url = https://github.com/submodule-test/auth-submodule
+[submodule "app/user"]
+	path = app/user
+	url = https://github.com/submodule-test/user-submodule
+[submodule "app/infrastructure"]
+	path = app/infrastructure
+	url = https://github.com/submodule-test/infra-submodule.git
+[submodule "app/front"]
+	path = app/front
+	url = https://github.com/submodule-test/front-submodule.git
