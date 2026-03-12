@@ -175,6 +175,8 @@ git commit -m "Update backend feature"
 git push origin main
 ```
 
+(참고: 만약 fatal: 'origin' does not appear to be a git repository 오류가 발생한다면, git remote -v로 원격 저장소가 잘 연결되어 있는지 확인하고, 없다면 git remote add origin [Submodule URL] 명령어로 다시 연결해 줍니다.)
+
 ---
 
 # 6. Submodule 변경사항을 메인 Repository에 반영
